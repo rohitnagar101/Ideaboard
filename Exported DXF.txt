@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<ISOCommercialAutomobile os_st_id="385924944" os_id="ISOCommercialAutomobile_385924944"
+	xmlns="http://www.oneshield.com/DragonSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+	<ISOCommercialAutomobileOptionalLimitsLossOfUseExpenses os_st_id="385925044" os_id="ISOCommercialAutomobileOptionalLimitsLossOfUseExpenses_385925044">
+		<AmountPerDay>10</AmountPerDay>
+		<ManualPremium>11</ManualPremium>
+		<Maximum>11</Maximum>
+	</ISOCommercialAutomobileOptionalLimitsLossOfUseExpenses>
+	<ISOCommercialAutomobileAutoMedicalPaymentsCoverage os_st_id="385925444" os_id="ISOCommercialAutomobileAutoMedicalPaymentsCoverage_385925444"></ISOCommercialAutomobileAutoMedicalPaymentsCoverage>
+	<ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividuals os_st_id="385926144" os_id="ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividuals_385926144">
+		<ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsDetail os_st_id="385926244" os_id="ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsDetail_385926244">
+			<ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsLiabilityCoverage os_st_id="385926344" os_id="ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsLiabilityCoverage_385926344">
+				<CoverageOnPolicyIndicatorCalculated>1</CoverageOnPolicyIndicatorCalculated>
+				<LiabilityDeductible>2</LiabilityDeductible>
+			</ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsLiabilityCoverage>
+			<ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsMedicalPaymentsCoverage os_st_id="385926544" os_id="ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsMedicalPaymentsCoverage_385926544">
+				<CoverageOnPolicyIndicatorCalculated>1</CoverageOnPolicyIndicatorCalculated>
+			</ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsMedicalPaymentsCoverage>
+			<ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsUninsuredMotoristsCoverage os_st_id="385926444" os_id="ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsUninsuredMotoristsCoverage_385926444">
+				<CoverageOnPolicyIndicatorCalculated>0</CoverageOnPolicyIndicatorCalculated>
+			</ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsUninsuredMotoristsCoverage>
+		</ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividualsDetail>
+	</ISOCommercialAutomobileDriveOtherCarCovBroadenedCovForNamedIndividuals>
+	<ISOCommercialAutomobileFuneralDirectorMedicalPaymentsCoverageForHiredAndNonOwnedAutos os_st_id="385925544" os_id="ISOCommercialAutomobileFuneralDirectorMedicalPaymentsCoverageForHiredAndNonOwnedAutos_385925544">
+		<CoverageOnPolicyIndicatorCalculated>0</CoverageOnPolicyIndicatorCalculated>
+	</ISOCommercialAutomobileFuneralDirectorMedicalPaymentsCoverageForHiredAndNonOwnedAutos>
+	<ISOCommercialAutomobileBusinessAutoCoverageForm os_st_id="385925344" os_id="ISOCommercialAutomobileBusinessAutoCoverageForm_385925344"></ISOCommercialAutomobileBusinessAutoCoverageForm>
+	<ISOCommercialAutomobileFellowEmployeeCoverageForDesignatedEmployeesPositions os_st_id="385925144" os_id="ISOCommercialAutomobileFellowEmployeeCoverageForDesignatedEmployeesPositions_385925144">
+		<ISOCommercialAutomobileFellowEmployeeCoverageForDesignatedEmployeesPositionsDetail os_st_id="385925244" os_id="ISOCommercialAutomobileFellowEmployeeCoverageForDesignatedEmployeesPositionsDetail_385925244"></ISOCommercialAutomobileFellowEmployeeCoverageForDesignatedEmployeesPositionsDetail>
+	</ISOCommercialAutomobileFellowEmployeeCoverageForDesignatedEmployeesPositions>
+	<ISOCommercialAutomobileTruck os_st_id="385925644" os_id="ISOCommercialAutomobileTruck_385925644">
+		<ISOCommercialAutomobileTruckMedicalPaymentsCoverage os_st_id="385925944" os_id="ISOCommercialAutomobileTruckMedicalPaymentsCoverage_385925944">
+			<CoverageOnPolicyIndicatorCalculated>1</CoverageOnPolicyIndicatorCalculated>
+		</ISOCommercialAutomobileTruckMedicalPaymentsCoverage>
+		<ISOCommercialAutomobileTruckTapesRecordsAndDiscsCoverage os_st_id="385925744" os_id="ISOCommercialAutomobileTruckTapesRecordsAndDiscsCoverage_385925744">
+			<ISOCommercialAutomobileTruckTapesRecordsAndDiscsCoverageComprehensiveCoverage os_st_id="385925844" os_id="ISOCommercialAutomobileTruckTapesRecordsAndDiscsCoverageComprehensiveCoverage_385925844">
+				<CoverageOnPolicyIndicatorCalculated>1</CoverageOnPolicyIndicatorCalculated>
+			</ISOCommercialAutomobileTruckTapesRecordsAndDiscsCoverageComprehensiveCoverage>
+		</ISOCommercialAutomobileTruckTapesRecordsAndDiscsCoverage>
+		<ISOCommercialAutomobileTruckTowingLaborCoverage os_st_id="385926044" os_id="ISOCommercialAutomobileTruckTowingLaborCoverage_385926044">
+			<CoverageOnPolicyIndicatorCalculated>1</CoverageOnPolicyIndicatorCalculated>
+		</ISOCommercialAutomobileTruckTowingLaborCoverage>
+	</ISOCommercialAutomobileTruck>
+</ISOCommercialAutomobile>
+<!--OneShield Proprietary . Do Not Distribute-->
